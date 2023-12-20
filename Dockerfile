@@ -1,4 +1,4 @@
-name: Ubuntu Setup Workflow
+
 
 on:
   push:
